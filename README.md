@@ -15,7 +15,37 @@ Métodos e Aplicativos Para o iOS do seu Estilo
  Acesse o ipa nos ”Releases” deste repositório.
  
  
- #
+# iFonts App: Aplicativo de customização ou adição de novas fontes de letras para o chat dentro de seus aplicativos preferidos do seu aparelho.
+       O aplicativo está ainda na sua versão inicial, portanto o numero de aplicativos compatíveis com suas fontes ainda são muito poucos; em breve mais aplicativos serão compatíveis com essas fontes.
        
+ 
+ Acesse o ipa nos ”Releases” deste repositório.
+ 
+
+# RGB Keyboard App: Aplicativo de customização de teclado para seu aparelho. Transforme seu teclado literalmente em um arco-íris de neon vibrante ou estático de acordo com o seu gosto. Precisa de reiniciar o aparelho na tela da maçã para que as configurações tenham efeito.
+
+
+Acesse o ipa nos ”Releases” deste repositório.
+
+
+# iTalogc iOS - Atalho: Transforme imagens do seu aparelho em ícones de aplicativos para depois instalar nos ajustes de assinatura de ipas do aplicativo ”E-sign”.
+
+Atalho Oficial:  
+
+Esign ipa pode ser obtido oficialmente gratuito aqui: https://esign.yyyue.xyz
+
+Para todos aparelhos com iOS 14.0 até o iOS 15.5b4 podem utilizar o TrollStore para instalar tudo no aparelho sem nunca precisar de assinar nem revogar certificados.
+
+* TrollStore para Chips A9 - A10 - A10X e A11:
+
+
+* TrollStore para Chips A12 e superiores:
+
+
+
+Créditos: ”OPA334” - Desenvolvedor do TrollStore
+          ”Motoca” - Tradutor (pt-br, en) do E-sign
+          ”Yyyue”  - Desenvolvedor do E-sign 
+
        
        
