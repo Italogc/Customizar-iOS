@@ -30,7 +30,7 @@ Acesse o ipa nos ”Releases” deste repositório.
 
 # iTalogc iOS - Atalho: Transforme imagens do seu aparelho em ícones de aplicativos para depois instalar nos ajustes de assinatura de ipas do aplicativo ”E-sign”.
 
-Atalho Oficial:  
+Atalho Oficial:  https://www.icloud.com/shortcuts/e2abe8c9a5bc4e7596d232b45a958cea
 
 Esign ipa pode ser obtido oficialmente gratuito aqui: https://esign.yyyue.xyz
 
