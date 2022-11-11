@@ -19,7 +19,7 @@ Métodos e Aplicativos Para o iOS do seu Estilo
        O aplicativo está ainda na sua versão inicial, portanto o numero de aplicativos compatíveis com suas fontes ainda são muito poucos; em breve mais aplicativos serão compatíveis com essas fontes.
        
  
- Acesse o ipa nos ”Releases” deste repositório.
+ Acesso: https://drive.google.com/file/d/1NmGRDBTtRAgWRHPRTcHu9RFk_lZvrehZ
  
 
 # RGB Keyboard App: Aplicativo de customização de teclado para seu aparelho. Transforme seu teclado literalmente em um arco-íris de neon vibrante ou estático de acordo com o seu gosto. Precisa de reiniciar o aparelho na tela da maçã para que as configurações tenham efeito.
