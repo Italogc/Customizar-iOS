@@ -25,7 +25,7 @@ Métodos e Aplicativos Para o iOS do seu Estilo
 # RGB Keyboard App: Aplicativo de customização de teclado para seu aparelho. Transforme seu teclado literalmente em um arco-íris de neon vibrante ou estático de acordo com o seu gosto. Precisa de reiniciar o aparelho na tela da maçã para que as configurações tenham efeito.
 
 
-Acesse o ipa nos ”Releases” deste repositório.
+Acesso: https://raw.githubusercontent.com/Italogc/Trollstore_IPAS/main/RGB%20Keyboard_2.5.5_Igc.ipa
 
 
 # iTalogc iOS - Atalho: Transforme imagens do seu aparelho em ícones de aplicativos para depois instalar nos ajustes de assinatura de ipas do aplicativo ”E-sign”.
