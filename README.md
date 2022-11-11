@@ -37,7 +37,7 @@ Esign ipa pode ser obtido oficialmente gratuito aqui: https://esign.yyyue.xyz
 Para todos aparelhos com iOS 14.0 até o iOS 15.5b4 podem utilizar o TrollStore para instalar tudo no aparelho sem nunca precisar de assinar nem revogar certificados.
 
 * TrollStore para Chips A9 - A10 - A10X e A11:
-
+https://api.jailbreaks.app/troll
 
 * TrollStore para Chips A12 e superiores:
 
