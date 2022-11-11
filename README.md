@@ -12,7 +12,7 @@ Métodos e Aplicativos Para o iOS do seu Estilo
 # Icons App: Aplicativo de criação de temas de ícones para iPhone e iPad no seu próprio aparelho,
        Depois de criados você poderá salvar seus ícones na sua biblioteca de fotos para serem postados posteriormente                no site ”iSkin” mencionado acima.
        
- Acesse o ipa nos ”Releases” deste repositório.
+ Acesso: https://raw.githubusercontent.com/Italogc/Trollstore_IPAS/main/Icons_1.6.0.ipa
  
  
 # iFonts App: Aplicativo de customização ou adição de novas fontes de letras para o chat dentro de seus aplicativos preferidos do seu aparelho.
