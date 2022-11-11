@@ -40,7 +40,7 @@ Para todos aparelhos com iOS 14.0 até o iOS 15.5b4 podem utilizar o TrollStore 
 https://api.jailbreaks.app/troll
 
 * TrollStore para Chips A12 e superiores:
-
+https://api.jailbreaks.app/troll64e
 
 
 Créditos: ”OPA334” - Desenvolvedor do TrollStore
