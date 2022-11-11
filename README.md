@@ -43,6 +43,12 @@ https://api.jailbreaks.app/troll
 https://api.jailbreaks.app/troll64e
 
 
+# TOP WIDGETS: Aplicativo Oficial da AppStore número 1 para personalizar seu aparelho.
+
+Acesse Oficialmente: https://apps.apple.com/us/app/top-widgets-%E4%B8%87%E8%83%BD%E5%B0%8F%E7%BB%84%E4%BB%B6/id1527221228?l=pt
+
+
+#######################################################################################################################
 Créditos: ”OPA334” - Desenvolvedor do TrollStore
           ”Motoca” - Tradutor (pt-br, en) do E-sign
           ”Yyyue”  - Desenvolvedor do E-sign 
